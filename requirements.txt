@@ -1,0 +1,12 @@
+torch>=1.8.0
+torchvision
+albumentations>=1.0.0
+torchmetrics
+tensorboard
+tqdm
+numpy
+pandas
+opencv-python
+pillow
+thop
+torchprofile

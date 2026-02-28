@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+results/
+processed_data/
+Data/
+.idea/
+.vscode/
+*.pkl
+*.pth
+best_results/
